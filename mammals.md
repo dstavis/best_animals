@@ -1,0 +1,4 @@
+bear
+giraffe
+cat
+dog
